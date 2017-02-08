@@ -6,3 +6,4 @@
 
 5.Goto testBranch, modify this file and commit
 Add this, to test --no-ff merge
+Add this on branch3, then use fast-forward merge with master
