@@ -5,3 +5,4 @@
 3.Commit on master, then check branch status: clean, but content doesn't change as in master
 
 5.Goto testBranch, modify this file and commit
+Add this, to test --no-ff merge
